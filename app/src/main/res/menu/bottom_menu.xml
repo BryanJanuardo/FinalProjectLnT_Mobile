@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Counter"
+        android:icon="@drawable/counter_button"
+        android:title="Counter" />
+
+    <item
+        android:id="@+id/Area_Calculator"
+        android:icon="@drawable/area_calculator_button"
+        android:title="Area Calculator"/>
+
+    <item
+        android:id="@+id/Volume_Calculator"
+        android:icon="@drawable/volume_calculator_button"
+        android:title="Volume Calculator"/>
+</menu>
